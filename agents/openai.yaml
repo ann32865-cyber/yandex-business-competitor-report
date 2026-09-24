@@ -1,0 +1,4 @@
+interface:
+  display_name: "Отчёт по конкурентам Яндекс Бизнес"
+  short_description: "Анализ дискавери и локального лидерства"
+  default_prompt: "Используй $yandex-business-competitor-report, чтобы сравнить парсинги Яндекс Бизнеса и обновить управленческий отчёт."
